@@ -93,6 +93,4 @@ I build production-grade solutions for Industry.
 
  > 📊 **Measurement and Data Acquisition Systems** | Teaching Students development of Measurement and Data Acquisition Applications.
 
- > 📊 **Programming of Measurement Systems** | Teaching Students development of Measurement Applications for Industry.
-
  > 🖥️ **Virtual Instrumentation** | Teaching Students programming in LabVIEW.
