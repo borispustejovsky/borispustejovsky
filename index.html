@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boris Pustějovský</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <canvas id="bgCanvas"></canvas>
+
+    <nav class="glass">
+        <div class="container nav-content">
+            <div class="logo">BP</div>
+            <!-- <div class="logo">BP<span>.</span></div> -->
+            <button class="nav-toggle" id="navToggle">
+                <i class="fas fa-bars"></i>
+            </button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#tech">Tech & Tools</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#teaching">Teaching</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section id="hero" class="hero-section">
+            <div class="container hero-content reveal">
+                <div class="hero-text">
+                    <!-- <p class="hero-greeting">Hi there, I’m</p> -->
+                    <h1 class="gradient-text">Boris Pustějovský</h1>
+                    <p class="hero-tagline">Applied Research Scientist @ Signal Lab FEI VŠB-TUO</p>
+                    <p class="hero-tagline">Computer Vision Developer</p>
+                    <p class="hero-tagline">Industrial AI & Data Engineer</p>
+                    <div class="hero-cta">
+                        <a href="#projects" class="btn btn-primary">View Projects</a>
+                        <a href="#contact" class="btn btn-secondary">Connect</a>
+                    </div>
+                </div>
+                <div class="hero-badges">
+                    <div class="hero-badge badge-cyber">Data Engineering</div>
+                    <div class="hero-badge badge-ai">Industrial AI</div>
+                    <div class="hero-badge badge-cv">Computer Vision</div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="container reveal">
+                <h2 class="section-title">About Me</h2>
+                <p class="about-intro">Experience in Computer Vision, Machine Learning, Data Engineering and
+                    Software Development for Industry <b>since 2020</b>. Certified LabVIEW Developer.</p>
+                <div class="about-grid">
+                    <div class="about-card glass">
+                        <div class="card-icon"><i class="fas fa-graduation-cap"></i></div>
+                        <h3>Education</h3>
+                        <p><strong>PhD Student in Technical Cybernetics</strong> – Industrial AI</p>
+                        <p><strong>Engineer in Cybernetics and Computer Science</strong> – Analysis & Processing of
+                            industrial data</p>
+                    </div>
+                    <div class="about-card glass">
+                        <div class="card-icon"><i class="fas fa-brain"></i></div>
+                        <h3>Mission</h3>
+                        <p>Keen on turning real-world factory data into robust, maintainable AI systems using
+                            state-of-the-art Architectures.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="tech" class="tech-section">
+            <div class="container reveal">
+                <h2 class="section-title">Tech & Tools</h2>
+                <div class="tech-container">
+                    <div class="tech-category">
+                        <h4>Programming & Scripting</h4>
+                        <div class="tech-grid">
+                            <div class="tech-badge"><i class="fab fa-python"></i> Python</div>
+                            <div class="tech-badge"><i class="fas fa-terminal"></i> Bash</div>
+                            <div class="tech-badge"><i class="fas fa-microchip"></i> LabVIEW</div>
+                            <div class="tech-badge"><i class="fas fa-file-code"></i> Jupyter</div>
+                            <div class="tech-badge"><i class="fas fa-code"></i> C++</div>
+                        </div>
+                    </div>
+                    <div class="tech-category">
+                        <h4>Machine Learning & Data</h4>
+                        <div class="tech-grid">
+                            <div class="tech-badge"><i class="fas fa-brain"></i> TensorFlow</div>
+                            <div class="tech-badge"><i class="fas fa-network-wired"></i> PyTorch</div>
+                            <div class="tech-badge"><i class="fas fa-chart-line"></i> Scikit-learn</div>
+                            <div class="tech-badge"><i class="fas fa-table"></i> Pandas</div>
+                            <div class="tech-badge"><i class="fas fa-chart-pie"></i> Plotly</div>
+                            <div class="tech-badge"><i class="fas fa-eye"></i> OpenCV</div>
+                            <div class="tech-badge"><i class="fas fa-database"></i> PostgreSQL</div>
+                            <div class="tech-badge"><i class="fas fa-database"></i> SQLite</div>
+                            <div class="tech-badge"><i class="fas fa-server"></i> LanceDB</div>
+                        </div>
+                    </div>
+                    <div class="tech-category">
+                        <h4>Platforms & DevOps</h4>
+                        <div class="tech-grid">
+                            <div class="tech-badge"><i class="fab fa-linux"></i> Linux</div>
+                            <div class="tech-badge"><i class="fab fa-docker"></i> Docker</div>
+                            <div class="tech-badge"><i class="fas fa-bolt"></i> FastAPI</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="projects-section">
+            <div class="container">
+                <h2 class="section-title">Selected Projects</h2>
+                <div class="projects-grid">
+                    <!-- 2026 -->
+                     <div class="project-card glass reveal">
+                        <div class="project-date">2026</div>
+                        <h3>Retracking Defects in Natural Scence</h3>
+                        <p>Application for tracking defects in natural scenes using Self-Supervised Model and algorithms for searching similar Objects in Vector Database.</p>
+                        <div class="project-tags">
+                            <span>Vectorstore</span>
+                            <span>Self-Supervised Learning</span>
+                            <span>Computer Vision</span>
+                        </div>
+                    </div>
+                    <!-- 2025 -->
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2025</div>
+                        <h3>Industrial RAG Semantic Classifier</h3>
+                        <p>Python-based pipeline utilizing Vector Database and Local LLMs for intelligent classification
+                            of unstructured records.</p>
+                        <div class="project-tags">
+                            <span>Vectorstore</span>
+                            <span>RAG</span>
+                            <span>LLM</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2025</div>
+                        <h3>Application for Quality Control of Electric Motors</h3>
+                        <p>Development of Big Data Collection Application and Data Analysis for OK/NOK Classification
+                            using Accelerometer and Acoustic Sensors.</p>
+                        <div class="project-tags">
+                            <span>Autoencoders</span>
+                            <span>Sensors</span>
+                            <span>Acoustics</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2025</div>
+                        <h3>Application for Defect Detection in Natural Scene</h3>
+                        <p>FastAPI Application with SQLite Database and PyTorch Transformer-Based Detection Model for
+                            Predictive Maintenance in Natural Scene.</p>
+                        <div class="project-tags">
+                            <span>FastAPI</span>
+                            <span>Transformers</span>
+                            <span>Computer Vision</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2025</div>
+                        <h3>ParkSense</h3>
+                        <p>A Computer Vision & Big Data based application that detects available parking spots in real
+                            time.</p>
+                        <div class="project-tags">
+                            <span>Computer Vision</span>
+                            <span>Big Data</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2025</div>
+                        <h3> #hackujstat - Czech National Hackathon</h3>
+                        <p>1st Place with NTL-CUP Team</p>
+                        <div class="project-tags">
+                            <span>Hackathon</span>
+                            <span>1st Place</span>
+                        </div>
+                    </div>
+
+                    <!-- 2024 -->
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2024</div>
+                        <h3>Application for Non-Destructive Material Testing</h3>
+                        <p>Design and Implementation of an Application for Technology Control, Sensor Data Collection
+                            and Analysis.</p>
+                        <div class="project-tags">
+                            <span>Data Acquisition</span>
+                            <span>Sensors</span>
+                            <span>Acoustic</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2024</div>
+                        <h3>Hackathon UPOL - When Data Speaks</h3>
+                        <p>1st Place with NTL-CUP Team</p>
+                        <div class="project-tags">
+                            <span>Hackathon</span>
+                            <span>1st Place</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2024</div>
+                        <h3>Diploma Thesis</h3>
+                        <p>The role of Optical Text Recognition using Deep Learning in Industry 4.0, including
+                            implementation of methods for detecting and localizing text in Images in Natural Scenes.</p>
+                        <div class="project-tags">
+                            <span>Computer Vision</span>
+                            <span>OCR</span>
+                            <span>Industry 4.0</span>
+                        </div>
+                    </div>
+
+                    <!-- 2023-2021 -->
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2023</div>
+                        <h3>Energy Data Processing Application</h3>
+                        <p>Design and implementation of an application for energy data collection, processing, and
+                            representation.</p>
+                        <div class="project-tags">
+                            <span>Energy</span>
+                            <span>Data Engineering</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2023</div>
+                        <h3>Quality Control of Plastic Products</h3>
+                        <p>Collaboration on the implementation of an application for visual inspection of plastic
+                            products using conventional methods and AI.</p>
+                        <div class="project-tags">
+                            <span>Computer Vision</span>
+                            <span>Deep Learning</span>
+                            <span>Data Engineering</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2022</div>
+                        <h3>AI-Powered Visual Inspection Platform</h3>
+                        <p>Collaboration on the implementation of TensorFlow architectures and development of a Runtime
+                            Application for real-time data collection and evaluation.</p>
+                        <div class="project-tags">
+                            <span>Computer Vision</span>
+                            <span>Deep Learning</span>
+                            <span>TensorFlow</span>
+                        </div>
+                    </div>
+                    <div class="project-card glass reveal">
+                        <div class="project-date">2021</div>
+                        <h3>Company Data Migration</h3>
+                        <p> Cleaning and unifying Company Data into robust Data Storage Platform, migrating data into
+                            new ERP System.
+                        </p>
+                        <div class="project-tags">
+                            <span>Data Engineering</span>
+                            <span>ERP</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="teaching" class="teaching">
+            <div class="container reveal">
+                <h2 class="section-title">Teaching</h2>
+                <div class="teaching-grid">
+                    <div class="teaching-card glass">
+                        <div class="teaching-icon"><i class="fas fa-robot"></i></div>
+                        <div class="teaching-content">
+                            <h3>AI Engineering</h3>
+                            <p>Teaching students the effective use of AI in modern Industrial Engineering.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="teaching-card glass">
+                        <div class="teaching-icon"><i class="fas fa-microchip"></i></div>
+                        <div class="teaching-content">
+                            <h3>Measurement and Data Acquisition Systems</h3>
+                            <p>Teaching Students development of Measurement and Data Acquisition Applications.</p>
+                        </div>
+                    </div>
+                    <div class="teaching-card glass">
+                        <div class="teaching-icon"><i class="fas fa-desktop"></i></div>
+                        <div class="teaching-content">
+                            <h3>Virtual Instrumentation</h3>
+                            <p>Teaching Students programming in LabVIEW.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <div class="container reveal">
+                <div class="contact-card glass">
+                    <div class="contact-header">
+                        <h2 class="gradient-text">Let's Connect</h2>
+                    </div>
+                    <div class="contact-methods">
+                        <a href="https://www.linkedin.com/in/borispustejovsky/" target="_blank" class="contact-item">
+                            <div class="icon"><i class="fab fa-linkedin-in"></i></div>
+                            <span>LinkedIn</span>
+                        </a>
+                        <a href="mailto:boris.pustejovsky@gmail.com" class="contact-item">
+                            <div class="icon"><i class="fas fa-envelope"></i></div>
+                            <span>Email Me</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="footer">
+        <div class="container">
+            <p>&copy; <span id="year"></span> Boris Pustějovský</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
