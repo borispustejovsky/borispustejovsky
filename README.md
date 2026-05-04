@@ -48,6 +48,12 @@ I build production-grade solutions for Industry.
 
 ## 🎯 Selected Projects
 
+**2026**
+
+> 📈 **Retracking Defects in Natural Scene** | Application for tracking Defects in Natural Scenes using Self-Supervised Model and algorithms for searching similar Objects in Vectorstore.
+
+> 📷 **Predictive Maintenance system** | Development of Predictive Maintenance System for manufacturing machines using Computer Vision and AI.
+
 **2025**
 
  >🧠 **Industrial RAG Semantic Classifier** | Python-based pipeline utilizing LanceDB and Local LLMs for intelligent classification of unstructured records.
