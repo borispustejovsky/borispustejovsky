@@ -1,16 +1,14 @@
 # 👋 Hi there, I’m **Boris Pustějovský**
 
-**Applied Research Scientist @ Signal Lab  ·  Computer Vision Developer  ·  Industrial AI & Data Engineer**
+**Applied Research Scientist @ Signal Lab, VŠB-Technical University Ostrava  ·  Computer Vision Developer  ·  Industrial AI & Data Engineer**
 
 ---
 
-I build production-grade solutions for Industry.
+🏭 _Data Engineering with a cybernetic soul and an AI mindset: From Coal Mining to Data Mining._
 
 🎓 PhD student in **Technical Cybernetics** - Industrial AI
 
 🎓 Engineer in Cybernetics and Computer Science - Analysis & Processing of industrial data
-
-🧠 Keen on turning real-world factory data into robust, maintainable AI systems
 
 ## 🌐 Connect
 
