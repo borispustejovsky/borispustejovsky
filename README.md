@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Boris Pustějovský**
 
-**Applied Research Scientist @ Signal Lab, VŠB-Technical University Ostrava  ·  Computer Vision Developer  ·  Industrial AI & Data Engineer**
+**Applied Research Scientist @ Signal Lab  ·  Computer Vision Developer  ·  Industrial AI & Data Engineer**
 
 ---
 
