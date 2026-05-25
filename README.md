@@ -12,37 +12,21 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a63bc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borispustejovsky/)
-[![Email](https://img.shields.io/badge/Email-e34133?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boris.pustejovsky@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a63bc?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borispustejovsky/)
+[![Email](https://img.shields.io/badge/Email-e34133?style=flat-square&logo=gmail&logoColor=white)](mailto:boris.pustejovsky@gmail.com)
 ## 🛠 Tech & Tools
 
 **Programming & Scripting**  
-![Python](https://img.shields.io/badge/Python-3f7baa.svg?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-f37726.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-293036.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427e.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-eeb724.svg?style=for-the-badge&logo=labview&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3f7baa.svg?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-f37726.svg?style=flat-square&logo=jupyter&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-293036.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00427e.svg?style=flat-square&logo=cplusplus&logoColor=white) ![LabVIEW](https://img.shields.io/badge/LabVIEW-eeb724.svg?style=flat-square&logo=labview&logoColor=000)
 
 **Platforms & DevOps**  
-![Linux](https://img.shields.io/badge/Linux-d84514.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1d91e6.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-d84514.svg?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1d91e6.svg?style=flat-square&logo=docker&logoColor=white)
 
 **Machine Learning & Data**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8400.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F09437.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0b0153.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-ec3a75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-14002a.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8400.svg?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c.svg?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F09437.svg?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-0b0153.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-ec3a75.svg?style=flat-square&logo=plotly&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-14002a.svg?style=flat-square&logo=opencv&logoColor=white)
 
 **APIs & Databases**  
-![FastAPI](https://img.shields.io/badge/FastAPI-059286.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-3b98d2.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f638b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![LanceDB](https://img.shields.io/badge/Lance_DB-625eff.svg?style=for-the-badge&logo=lancedb&logoColor=white)
-
-
+![FastAPI](https://img.shields.io/badge/FastAPI-059286.svg?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-3b98d2.svg?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f638b.svg?style=flat-square&logo=postgresql&logoColor=white) ![LanceDB](https://img.shields.io/badge/Lance_DB-625eff.svg?style=flat-square&logo=lancedb&logoColor=white)
 
 ## 🎯 Selected Projects
 
