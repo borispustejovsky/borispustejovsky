@@ -32,7 +32,7 @@
 
 **2026**
 
-> 📈 **Retracking Defects in Natural Scene** | Application for tracking Defects in Natural Scenes using Self-Supervised Model and algorithms for searching similar Objects in Vectorstore.
+> 📈 **Long-Term Re-Identification of Defects in Natural Scenes via Spatial-Visual Data Fusion** | System that fuses spatial metadata with self-supervised visual embeddings to track and consistently re-identify environmental defects over time using vector similarity search.
 
 > 📷 **Predictive Maintenance system** | Development of Predictive Maintenance System for manufacturing machines using Computer Vision and AI.
 
