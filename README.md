@@ -38,7 +38,7 @@
 
 **2025**
 
- >🧠 **Industrial RAG Semantic Classifier** | Python-based pipeline utilizing LanceDB and Local LLMs for intelligent classification of unstructured records.
+ >🧠 **Industrial RAG Semantic Classifier** | Python-based pipeline utilizing LanceDB and Local LLMs for intelligent classification of unstructured biomedical records.
  
  >🎤 **Application for Quality Control of Electric Motors** | Development of Big Data Collection Application and Data Analysis for OK/NOK Classification using Accelerometer and Acoustic Sensors.
 
