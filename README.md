@@ -34,6 +34,8 @@
 
 > 📈 **Long-Term Re-Identification of Defects in Natural Scenes via Spatial-Visual Data Fusion** | System that fuses spatial metadata with self-supervised visual embeddings to track and consistently re-identify environmental defects over time using vector similarity search.
 
+> 🧠 **Clinical Decision Support System (CDSS) for brain CT indication in Craniocerebral Trauma** | A system based on Czech Neurological Society guidelines for deterministic and explainable CT indication recommendations for clinicians.
+
 > 📷 **Predictive Maintenance system** | Development of Predictive Maintenance System for manufacturing machines using Computer Vision and AI.
 
 **2025**
