@@ -38,6 +38,8 @@
 
 > 📷 **Predictive Maintenance system** | Development of Predictive Maintenance System for manufacturing machines using Computer Vision and AI.
 
+ >🥇 **Healthcare 4.0 Challenge** | 1st Place with ICU - Intensive Code Unit Team.
+
 **2025**
 
  >🧠 **Industrial RAG Semantic Classifier** | Python-based pipeline utilizing LanceDB and Local LLMs for intelligent classification of unstructured biomedical records.
@@ -48,16 +50,16 @@
 
  >📱 **ParkSense** | A Computer Vision & Big Data based application that detects **available parking spots** in real time.
  
- >🥇 **#hackujstat - Czech National Hackathon** | 1st Place with NTL-CUP Team
+ >🥇 **#hackujstat - Czech National Hackathon** | 1st Place with NTL-CUP Team.
 
 
  **2024**
 
  >📈 **Application for Non-Destructive Material Testing** | Design and Implementation of an Application for Technology Control, Sensor Data Collection and Analysis.
 
- > 🥇 **Hackathon UPOL - When Data Speaks** | 1st Place with NTL-CUP Team
-
  >🎓**Diploma Thesis** | The role of Optical Text Recognition using Deep Learning in Industry 4.0, including implementation of methods for detecting and localizing text in Images in Natural Scenes.
+
+ > 🥇 **Hackathon UPOL - When Data Speaks** | 1st Place with NTL-CUP Team.
 
  **2023**
 
