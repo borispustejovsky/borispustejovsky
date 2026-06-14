@@ -38,8 +38,6 @@
 
 > 📷 **Predictive Maintenance system** | Development of Predictive Maintenance System for manufacturing machines using Computer Vision and AI.
 
- >🥇 **Healthcare 4.0 Challenge** | 1st Place with ICU - Intensive Code Unit Team.
-
 **2025**
 
  >🧠 **Industrial RAG Semantic Classifier** | Python-based pipeline utilizing LanceDB and Local LLMs for intelligent classification of unstructured biomedical records.
