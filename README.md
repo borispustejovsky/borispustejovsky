@@ -4,8 +4,6 @@
 
 ---
 
-🏭 _Data Engineering with a cybernetic soul and an AI mindset: From Coal Mining to Data Mining._
-
 🎓 PhD student in **Technical Cybernetics** - Industrial AI
 
 🎓 Engineer in Cybernetics and Computer Science - Analysis & Processing of industrial data
