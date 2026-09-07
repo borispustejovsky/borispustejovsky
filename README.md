@@ -130,7 +130,7 @@
 ### 🎓 Academic Teaching
 
 <table width="100%">
- <!-- <tr>
+ <tr>
     <td>
       <b>AI Engineering</b><br>
       <sub>Teaching AI-assisted development, project workflows, and software implementation in Bash and Python.</sub>
@@ -141,7 +141,7 @@
       <b>Artificial Intelligence for Industrial Applications</b><br>
       <sub>Teaching development of applications for 1D, 2D, and 3D data processing, time series analysis, and industrial AI deployment.</sub>
     </td>
-  </tr> -->
+  </tr>
   <tr>
     <td>
       <b>Measurement and Data Acquisition Systems</b><br>
