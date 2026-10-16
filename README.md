@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E613C&height=250&section=header&text=Boris%20Pustějovský&fontSize=42&fontColor=fff&animation=fadeIn&desc=Applied%20Research%20Scientist%20%7C%20Industrial%20AI%20Data%20Engineer&descAlignY=70&descAlign=50&textBgY=5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E613C&height=250&section=header&text=Boris%20Pustějovský&fontSize=42&fontColor=fff&animation=fadeIn&desc=Industrial%20AI%20Engineer%20%7C%20Research%20Scientist&descAlignY=70&descAlign=50&textBgY=5" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/borispustejovsky/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
