@@ -72,6 +72,7 @@
 
 | Place | Competition |  |
 | :---: | :--- | :--- |
+| 🥈 **2nd Place** | **Rakathon - Czech National Oncology Hackathon** · 2026 | *With ICU Team* |
 | 🥇 **1st Place** | **Healthcare 4.0 Challenge Hackathon** · 2026 | *With ICU Team* |
 | 🥇 **1st Place** | **#hackujstat – Czech National Hackathon** · 2025 | *With NTL-CUP Team* |
 | 🥇 **1st Place** | **Hackathon UPOL – When Data Speaks** · 2024 | *With NTL-CUP Team* |
