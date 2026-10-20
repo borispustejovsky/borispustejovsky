@@ -82,6 +82,10 @@
 ### 🎯 Selected Projects
 
 #### 2026
+
+> **ONTRA - Oncology Trace**  
+> *AI-based application for multimodal data processing and information extraction for the National Cancer Registry. Built for Rakathon - Czech National Oncology Hackathon.*
+
 > **AI-Driven Multimodal Data Processing for Long-Term Defect Monitoring**  
 > *System that fuses spatial metadata with self-supervised visual embeddings to track and consistently re-identify environmental defects over time using vector similarity search.*  
 
